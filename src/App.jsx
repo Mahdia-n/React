@@ -12,6 +12,8 @@ function App() {
         <Certificate name="Mahdia" label="React Basics" value="A+"/>
         <Certificate name="Ali" label="JavaScript Fundamentals" value="B+"/>
         <Certificate name="Farzana" label="HTML & CSS Mastery" value="A-"/>
+
+        <Component name="student" ></Component>
       </div>
     </>
   )
